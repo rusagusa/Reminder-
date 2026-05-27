@@ -1,0 +1,6 @@
+{
+  "name": "Zenith Fit",
+  "description": "An athletic-focused alarm clock, interval workout timer, and calendar reminder log database built specifically for athletes to track personal best performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

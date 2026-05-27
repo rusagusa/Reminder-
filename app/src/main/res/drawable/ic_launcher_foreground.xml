@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Ringing bells left and right -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M 28 24 A 10 10 0 0 1 44 34 L 38 40 L 28 24 Z" />
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M 80 24 A 10 10 0 0 0 64 34 L 70 40 L 80 24 Z" />
+    
+    <!-- Support legs at the bottom -->
+    <path
+        android:strokeColor="#FF5252"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 38 78 L 28 88" />
+    <path
+        android:strokeColor="#FF5252"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 70 78 L 80 88" />
+    
+    <!-- Main Body Circular frame casing -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54 34 C 40 34 29 45 29 59 C 29 73 40 84 54 84 C 68 84 79 73 79 59 C 79 45 68 34 54 34 Z M 54 80 C 42 80 33 71 33 59 C 33 47 42 38 54 38 C 66 38 75 47 75 59 C 75 71 66 80 54 80 Z" />
+    
+    <!-- Strict Alarm Watch clock hands -->
+    <path
+        android:strokeColor="#FF5252"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54 59 L 54 46" />
+    <path
+        android:strokeColor="#FF5252"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54 59 L 66 65" />
+    
+    <!-- Striker Hammer -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 51 22 L 57 22 L 57 28 L 51 28 Z" />
+</vector>
